@@ -1,2 +1,2 @@
 # ZachBaxter.github.io
-Resuome website
+Resume website
